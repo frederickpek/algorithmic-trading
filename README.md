@@ -1,2 +1,2 @@
 # algorithmic-trading
-Algorithmic implementations and backtesting.
+Algorithmic trading implementations and backtesting.
