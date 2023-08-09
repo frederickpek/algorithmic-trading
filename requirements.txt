@@ -1,2 +1,3 @@
 backtesting
 pandas_ta
+bokeh==2.4.3
